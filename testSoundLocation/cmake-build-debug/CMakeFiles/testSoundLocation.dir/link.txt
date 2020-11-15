@@ -1,0 +1,3 @@
+"D:\6\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\testSoundLocation.dir/objects.a
+D:\6\mingw64\bin\ar.exe cr CMakeFiles\testSoundLocation.dir/objects.a @CMakeFiles\testSoundLocation.dir\objects1.rsp
+D:\6\mingw64\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\testSoundLocation.dir/objects.a -Wl,--no-whole-archive  -o testSoundLocation.exe -Wl,--out-implib,libtestSoundLocation.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\testSoundLocation.dir\linklibs.rsp

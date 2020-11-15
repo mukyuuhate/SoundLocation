@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="testSoundLocation"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/cpp/clion/testSoundLocation/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/6/mingw64/bin/mingw32-make.exe -f &quot;D:/cpp/clion/testSoundLocation/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/6/mingw64/bin/mingw32-make.exe -f &quot;D:/cpp/clion/testSoundLocation/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/6/mingw64/bin/mingw32-make.exe -f &quot;D:/cpp/clion/testSoundLocation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/6/mingw64/bin/mingw32-make.exe -f &quot;D:/cpp/clion/testSoundLocation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testSoundLocation">
+				<Option output="D:/cpp/clion/testSoundLocation/cmake-build-debug/testSoundLocation.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/cpp/clion/testSoundLocation/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/6/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/6/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/6/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/6/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/6/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/6/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/6/mingw64/bin/mingw32-make.exe -f &quot;D:/cpp/clion/testSoundLocation/cmake-build-debug/Makefile&quot;  VERBOSE=1 testSoundLocation"/>
+					<CompileFile command="D:/6/mingw64/bin/mingw32-make.exe -f &quot;D:/cpp/clion/testSoundLocation/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/6/mingw64/bin/mingw32-make.exe -f &quot;D:/cpp/clion/testSoundLocation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/6/mingw64/bin/mingw32-make.exe -f &quot;D:/cpp/clion/testSoundLocation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testSoundLocation/fast">
+				<Option output="D:/cpp/clion/testSoundLocation/cmake-build-debug/testSoundLocation.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/cpp/clion/testSoundLocation/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/6/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/6/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/6/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/6/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/6/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/6/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/6/mingw64/bin/mingw32-make.exe -f &quot;D:/cpp/clion/testSoundLocation/cmake-build-debug/Makefile&quot;  VERBOSE=1 testSoundLocation/fast"/>
+					<CompileFile command="D:/6/mingw64/bin/mingw32-make.exe -f &quot;D:/cpp/clion/testSoundLocation/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/6/mingw64/bin/mingw32-make.exe -f &quot;D:/cpp/clion/testSoundLocation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/6/mingw64/bin/mingw32-make.exe -f &quot;D:/cpp/clion/testSoundLocation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/cpp/clion/testSoundLocation/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/6/mingw64/bin/mingw32-make.exe -f &quot;D:/cpp/clion/testSoundLocation/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/6/mingw64/bin/mingw32-make.exe -f &quot;D:/cpp/clion/testSoundLocation/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/6/mingw64/bin/mingw32-make.exe -f &quot;D:/cpp/clion/testSoundLocation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/6/mingw64/bin/mingw32-make.exe -f &quot;D:/cpp/clion/testSoundLocation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/cpp/clion/testSoundLocation/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/6/mingw64/bin/mingw32-make.exe -f &quot;D:/cpp/clion/testSoundLocation/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/6/mingw64/bin/mingw32-make.exe -f &quot;D:/cpp/clion/testSoundLocation/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/6/mingw64/bin/mingw32-make.exe -f &quot;D:/cpp/clion/testSoundLocation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/6/mingw64/bin/mingw32-make.exe -f &quot;D:/cpp/clion/testSoundLocation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/cpp/clion/testSoundLocation/CMakeLists.txt">
+			<Option target="testSoundLocation"/>
+		</Unit>
+		<Unit filename="D:/cpp/clion/testSoundLocation/SoundLocation.c">
+			<Option target="testSoundLocation"/>
+		</Unit>
+		<Unit filename="D:/cpp/clion/testSoundLocation/SoundLocation.h">
+			<Option target="testSoundLocation"/>
+		</Unit>
+		<Unit filename="D:/cpp/clion/testSoundLocation/SoundLocation_emxAPI.c">
+			<Option target="testSoundLocation"/>
+		</Unit>
+		<Unit filename="D:/cpp/clion/testSoundLocation/SoundLocation_emxAPI.h">
+			<Option target="testSoundLocation"/>
+		</Unit>
+		<Unit filename="D:/cpp/clion/testSoundLocation/SoundLocation_emxutil.c">
+			<Option target="testSoundLocation"/>
+		</Unit>
+		<Unit filename="D:/cpp/clion/testSoundLocation/SoundLocation_emxutil.h">
+			<Option target="testSoundLocation"/>
+		</Unit>
+		<Unit filename="D:/cpp/clion/testSoundLocation/SoundLocation_initialize.c">
+			<Option target="testSoundLocation"/>
+		</Unit>
+		<Unit filename="D:/cpp/clion/testSoundLocation/SoundLocation_initialize.h">
+			<Option target="testSoundLocation"/>
+		</Unit>
+		<Unit filename="D:/cpp/clion/testSoundLocation/SoundLocation_rtwutil.c">
+			<Option target="testSoundLocation"/>
+		</Unit>
+		<Unit filename="D:/cpp/clion/testSoundLocation/SoundLocation_rtwutil.h">
+			<Option target="testSoundLocation"/>
+		</Unit>
+		<Unit filename="D:/cpp/clion/testSoundLocation/SoundLocation_terminate.c">
+			<Option target="testSoundLocation"/>
+		</Unit>
+		<Unit filename="D:/cpp/clion/testSoundLocation/SoundLocation_terminate.h">
+			<Option target="testSoundLocation"/>
+		</Unit>
+		<Unit filename="D:/cpp/clion/testSoundLocation/SoundLocation_types.h">
+			<Option target="testSoundLocation"/>
+		</Unit>
+		<Unit filename="D:/cpp/clion/testSoundLocation/abs.c">
+			<Option target="testSoundLocation"/>
+		</Unit>
+		<Unit filename="D:/cpp/clion/testSoundLocation/abs.h">
+			<Option target="testSoundLocation"/>
+		</Unit>
+		<Unit filename="D:/cpp/clion/testSoundLocation/bluesteinSetup.c">
+			<Option target="testSoundLocation"/>
+		</Unit>
+		<Unit filename="D:/cpp/clion/testSoundLocation/bluesteinSetup.h">
+			<Option target="testSoundLocation"/>
+		</Unit>
+		<Unit filename="D:/cpp/clion/testSoundLocation/combineVectorElements.c">
+			<Option target="testSoundLocation"/>
+		</Unit>
+		<Unit filename="D:/cpp/clion/testSoundLocation/combineVectorElements.h">
+			<Option target="testSoundLocation"/>
+		</Unit>
+		<Unit filename="D:/cpp/clion/testSoundLocation/diff.c">
+			<Option target="testSoundLocation"/>
+		</Unit>
+		<Unit filename="D:/cpp/clion/testSoundLocation/diff.h">
+			<Option target="testSoundLocation"/>
+		</Unit>
+		<Unit filename="D:/cpp/clion/testSoundLocation/fft.c">
+			<Option target="testSoundLocation"/>
+		</Unit>
+		<Unit filename="D:/cpp/clion/testSoundLocation/fft.h">
+			<Option target="testSoundLocation"/>
+		</Unit>
+		<Unit filename="D:/cpp/clion/testSoundLocation/fft1.c">
+			<Option target="testSoundLocation"/>
+		</Unit>
+		<Unit filename="D:/cpp/clion/testSoundLocation/fft1.h">
+			<Option target="testSoundLocation"/>
+		</Unit>
+		<Unit filename="D:/cpp/clion/testSoundLocation/fftshift.c">
+			<Option target="testSoundLocation"/>
+		</Unit>
+		<Unit filename="D:/cpp/clion/testSoundLocation/fftshift.h">
+			<Option target="testSoundLocation"/>
+		</Unit>
+		<Unit filename="D:/cpp/clion/testSoundLocation/fliplr.c">
+			<Option target="testSoundLocation"/>
+		</Unit>
+		<Unit filename="D:/cpp/clion/testSoundLocation/fliplr.h">
+			<Option target="testSoundLocation"/>
+		</Unit>
+		<Unit filename="D:/cpp/clion/testSoundLocation/ifft.c">
+			<Option target="testSoundLocation"/>
+		</Unit>
+		<Unit filename="D:/cpp/clion/testSoundLocation/ifft.h">
+			<Option target="testSoundLocation"/>
+		</Unit>
+		<Unit filename="D:/cpp/clion/testSoundLocation/interp1.c">
+			<Option target="testSoundLocation"/>
+		</Unit>
+		<Unit filename="D:/cpp/clion/testSoundLocation/interp1.h">
+			<Option target="testSoundLocation"/>
+		</Unit>
+		<Unit filename="D:/cpp/clion/testSoundLocation/isfinite.c">
+			<Option target="testSoundLocation"/>
+		</Unit>
+		<Unit filename="D:/cpp/clion/testSoundLocation/isfinite.h">
+			<Option target="testSoundLocation"/>
+		</Unit>
+		<Unit filename="D:/cpp/clion/testSoundLocation/main.c">
+			<Option target="testSoundLocation"/>
+		</Unit>
+		<Unit filename="D:/cpp/clion/testSoundLocation/main.h">
+			<Option target="testSoundLocation"/>
+		</Unit>
+		<Unit filename="D:/cpp/clion/testSoundLocation/ppval.c">
+			<Option target="testSoundLocation"/>
+		</Unit>
+		<Unit filename="D:/cpp/clion/testSoundLocation/ppval.h">
+			<Option target="testSoundLocation"/>
+		</Unit>
+		<Unit filename="D:/cpp/clion/testSoundLocation/pwchcore.c">
+			<Option target="testSoundLocation"/>
+		</Unit>
+		<Unit filename="D:/cpp/clion/testSoundLocation/pwchcore.h">
+			<Option target="testSoundLocation"/>
+		</Unit>
+		<Unit filename="D:/cpp/clion/testSoundLocation/rdivide_helper.c">
+			<Option target="testSoundLocation"/>
+		</Unit>
+		<Unit filename="D:/cpp/clion/testSoundLocation/rdivide_helper.h">
+			<Option target="testSoundLocation"/>
+		</Unit>
+		<Unit filename="D:/cpp/clion/testSoundLocation/rtGetInf.c">
+			<Option target="testSoundLocation"/>
+		</Unit>
+		<Unit filename="D:/cpp/clion/testSoundLocation/rtGetInf.h">
+			<Option target="testSoundLocation"/>
+		</Unit>
+		<Unit filename="D:/cpp/clion/testSoundLocation/rtGetNaN.c">
+			<Option target="testSoundLocation"/>
+		</Unit>
+		<Unit filename="D:/cpp/clion/testSoundLocation/rtGetNaN.h">
+			<Option target="testSoundLocation"/>
+		</Unit>
+		<Unit filename="D:/cpp/clion/testSoundLocation/rt_defines.h">
+			<Option target="testSoundLocation"/>
+		</Unit>
+		<Unit filename="D:/cpp/clion/testSoundLocation/rt_nonfinite.c">
+			<Option target="testSoundLocation"/>
+		</Unit>
+		<Unit filename="D:/cpp/clion/testSoundLocation/rt_nonfinite.h">
+			<Option target="testSoundLocation"/>
+		</Unit>
+		<Unit filename="D:/cpp/clion/testSoundLocation/rtwtypes.h">
+			<Option target="testSoundLocation"/>
+		</Unit>
+		<Unit filename="D:/cpp/clion/testSoundLocation/run.c">
+			<Option target="testSoundLocation"/>
+		</Unit>
+		<Unit filename="D:/cpp/clion/testSoundLocation/spline.c">
+			<Option target="testSoundLocation"/>
+		</Unit>
+		<Unit filename="D:/cpp/clion/testSoundLocation/spline.h">
+			<Option target="testSoundLocation"/>
+		</Unit>
+		<Unit filename="D:/cpp/clion/testSoundLocation/sqrt.c">
+			<Option target="testSoundLocation"/>
+		</Unit>
+		<Unit filename="D:/cpp/clion/testSoundLocation/sqrt.h">
+			<Option target="testSoundLocation"/>
+		</Unit>
+		<Unit filename="D:/cpp/clion/testSoundLocation/vvarstd.c">
+			<Option target="testSoundLocation"/>
+		</Unit>
+		<Unit filename="D:/cpp/clion/testSoundLocation/vvarstd.h">
+			<Option target="testSoundLocation"/>
+		</Unit>
+		<Unit filename="D:/cpp/clion/testSoundLocation/xnrm2.c">
+			<Option target="testSoundLocation"/>
+		</Unit>
+		<Unit filename="D:/cpp/clion/testSoundLocation/xnrm2.h">
+			<Option target="testSoundLocation"/>
+		</Unit>
+		<Unit filename="D:/cpp/clion/testSoundLocation/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

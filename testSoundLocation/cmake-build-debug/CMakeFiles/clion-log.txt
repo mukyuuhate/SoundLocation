@@ -1,0 +1,4 @@
+"D:\6\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=D:/6/mingw64/bin/mingw32-make.exe -DCMAKE_C_COMPILER=D:/6/mingw64/bin/gcc.exe -DCMAKE_CXX_COMPILER=D:/6/mingw64/bin/g++.exe -G "CodeBlocks - MinGW Makefiles" D:\cpp\clion\testSoundLocation
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/cpp/clion/testSoundLocation/cmake-build-debug
